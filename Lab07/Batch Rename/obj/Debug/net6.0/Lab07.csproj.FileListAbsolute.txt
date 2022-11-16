@@ -1,0 +1,16 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\bin\Debug\net6.0\Lab07.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\bin\Debug\net6.0\Data.txt
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\bin\Debug\net6.0\Lab07.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\bin\Debug\net6.0\Lab07.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\bin\Debug\net6.0\Lab07.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\bin\Debug\net6.0\Lab07.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\refint\Lab07.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\Lab07.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab07\Batch Rename\obj\Debug\net6.0\ref\Lab07.dll
