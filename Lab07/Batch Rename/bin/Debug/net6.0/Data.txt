@@ -1,0 +1,3 @@
+﻿Replace Google => Insta
+OneSpaceOnly
+AddPrefix NL

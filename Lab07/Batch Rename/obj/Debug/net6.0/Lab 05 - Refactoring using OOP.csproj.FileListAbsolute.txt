@@ -1,0 +1,16 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\bin\Debug\net6.0\Lab 05 - Refactoring using OOP.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\bin\Debug\net6.0\Lab 05 - Refactoring using OOP.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\bin\Debug\net6.0\Lab 05 - Refactoring using OOP.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\bin\Debug\net6.0\Lab 05 - Refactoring using OOP.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\bin\Debug\net6.0\Lab 05 - Refactoring using OOP.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\refint\Lab 05 - Refactoring using OOP.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\Lab 05 - Refactoring using OOP.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\obj\Debug\net6.0\ref\Lab 05 - Refactoring using OOP.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Lab05\Batch Rename\bin\Debug\net6.0\Data.txt
