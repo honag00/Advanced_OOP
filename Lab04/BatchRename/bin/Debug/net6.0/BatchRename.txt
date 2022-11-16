@@ -1,0 +1,4 @@
+Replace [-, _, .pdf, google]  
+OneSpace
+UppercaseRule
+Prefix CV  
