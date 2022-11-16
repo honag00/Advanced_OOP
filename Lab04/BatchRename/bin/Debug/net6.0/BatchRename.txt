@@ -1,0 +1,4 @@
+Replace [google] facebook
+OneSpace
+Prefix CV 
+UppercaseRule
