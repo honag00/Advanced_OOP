@@ -1,0 +1,7 @@
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\obj\Debug\AdditionLib.csprojResolveAssemblyReference.cache
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\bin\Debug\AdditionLib.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\bin\Debug\AdditionLib.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\bin\Debug\IPluginContract.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\bin\Debug\IPluginContract.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\obj\Debug\AdditionLib.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\AdditionLib\obj\Debug\AdditionLib.pdb

@@ -1,0 +1,7 @@
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\bin\Debug\SubtractionLib.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\bin\Debug\SubtractionLib.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\bin\Debug\IPluginContract.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\bin\Debug\IPluginContract.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\obj\Debug\SubtractionLib.csprojResolveAssemblyReference.cache
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\obj\Debug\SubtractionLib.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\SubtractionLib\obj\Debug\SubtractionLib.pdb

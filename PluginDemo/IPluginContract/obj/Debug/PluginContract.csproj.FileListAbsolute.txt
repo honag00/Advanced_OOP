@@ -1,0 +1,11 @@
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\bin\Debug\IPluginContract.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\bin\Debug\IPluginContract.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\obj\Debug\IPluginContract.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\obj\Debug\IPluginContract.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\obj\Debug\PluginContract.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\PluginDemo\IPluginContract\bin\Debug\IPluginContract.dll
+C:\Users\ADMIN\Downloads\PluginDemo\IPluginContract\bin\Debug\IPluginContract.pdb
+C:\Users\ADMIN\Downloads\PluginDemo\IPluginContract\obj\Debug\PluginContract.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PluginDemo\IPluginContract\obj\Debug\PluginContract.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PluginDemo\IPluginContract\obj\Debug\IPluginContract.dll
+C:\Users\ADMIN\Downloads\PluginDemo\IPluginContract\obj\Debug\IPluginContract.pdb

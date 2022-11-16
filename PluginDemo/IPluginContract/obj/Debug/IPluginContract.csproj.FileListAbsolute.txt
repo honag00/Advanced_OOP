@@ -1,0 +1,4 @@
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\bin\Debug\IPluginContract.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\bin\Debug\IPluginContract.pdb
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\obj\Debug\IPluginContract.dll
+C:\Users\slifer7\Source\Repos\HelloVSOnline\PluginDemo\IPluginContract\obj\Debug\IPluginContract.pdb
