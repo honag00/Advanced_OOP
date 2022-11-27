@@ -1,0 +1,23 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3_MarkupCompile.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3_MarkupCompile.lref
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\bin\Debug\net6.0-windows\Theory 3.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\bin\Debug\net6.0-windows\Image\zfold4.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\bin\Debug\net6.0-windows\Theory 3.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\bin\Debug\net6.0-windows\Theory 3.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\bin\Debug\net6.0-windows\Theory 3.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\bin\Debug\net6.0-windows\Theory 3.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.g.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\refint\Theory 3.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\Theory 3.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 3\obj\Debug\net6.0-windows\ref\Theory 3.dll

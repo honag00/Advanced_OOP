@@ -1,0 +1,19 @@
+﻿<Window x:Class="Theory_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Theory_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:AbsoConverter x:Key="Abso_converter"/>
+    </Window.Resources>
+    <Canvas>
+        <Label Name="label0" Content="Theory excercise 3" Canvas.Left="276" Canvas.Top="10" Height="42" Width="248" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontSize="18" VerticalAlignment="Top"/>
+        <Label Name ="PhoneName" Content ="" Canvas.Left="28" Canvas.Top="52" Height="42" Width="248" HorizontalContentAlignment="Center" HorizontalAlignment="Left" FontSize="18" VerticalAlignment="Top"/>
+        <Label Name ="Factory" Content ="" Canvas.Left="28" Canvas.Top="196" Height="42" Width="248" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontSize="18" VerticalAlignment="Top"/>
+        <Label Name ="Price" Content ="" Canvas.Left="28" Canvas.Top="352" Height="42" Width="248" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontSize="18" VerticalAlignment="Top"/>
+        <Image Name ="Image" Source = "{Binding Image0, Converter= {StaticResource Abso_converter}}" Canvas.Left="368" Canvas.Top="52" Height="315" Width="375" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Canvas>
+</Window>
