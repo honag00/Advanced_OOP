@@ -1,0 +1,32 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Theory 4.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Theory 4.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Theory 4.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Theory 4.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Theory 4.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4_MarkupCompile.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4_MarkupCompile.lref
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.g.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\refint\Theory 4.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\Theory 4.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\obj\Debug\net6.0-windows\ref\Theory 4.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\iphone13.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\iphonexsmax.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\oppoa9.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\realmec20.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\s22ultra.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\vivov25.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\xiaomi11lite5g.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\xiaomi12t.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\zflip4.jpg
+C:\Users\ADMIN\OneDrive\Máy tính\Project\CS202 - Advanced Object-Oriented Programming\Theory 4\bin\Debug\net6.0-windows\Image\zfold4.jpg
