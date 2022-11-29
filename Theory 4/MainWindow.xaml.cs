@@ -32,7 +32,7 @@ namespace Theory_4
                 PhoneName0 = "Iphone 13",
                 Factory0 = "Apple",
                 Price0 = "23.000.000 VNĐ",
-                Image0 = $"Image/inphon13.jpg",
+                Image0 = $"Image/iphone13.jpg",
             };
 
             Data phone2 = new Data()
@@ -72,7 +72,7 @@ namespace Theory_4
                 PhoneName0 = "Xiaomi 11 Lite",
                 Factory0 = "Xiaomi",
                 Price0 = "10.990.00 VNĐ",
-                Image0 = $"Image/.jpg",
+                Image0 = $"Image/xiaomi11lite5g.jpg",
             };
 
             Data phone7 = new Data()
@@ -128,7 +128,7 @@ namespace Theory_4
 
         private void add_click(object sender, RoutedEventArgs e)
         {
-            datalist.Add(phone1);
+            datalist.Add(phone10);
         }
 
         private void delete_click(object sender, RoutedEventArgs e)
@@ -142,6 +142,7 @@ namespace Theory_4
             phone1.PhoneName0 = "Iphone 13 Pro";
             phone1.Factory0 = "Apple";
             phone1.Price0 = "27.500.000 VNĐ";
+            phone1.Image0 = $"Image/iphone13.jpg";
         }
     }
 }
