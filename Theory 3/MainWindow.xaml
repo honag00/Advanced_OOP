@@ -17,3 +17,11 @@
         <Image Name ="Image" Source = "{Binding Image0, Converter= {StaticResource Abso_converter}}" Canvas.Left="368" Canvas.Top="52" Height="315" Width="375" HorizontalAlignment="Left" VerticalAlignment="Top"/>
     </Canvas>
 </Window>
+
+
+
+
+
+
+
+anh yeu em
